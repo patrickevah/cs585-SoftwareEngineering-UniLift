@@ -1,0 +1,25 @@
+{
+  "name": "cs585-SoftwareEngineering-UniLift",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "proxy": "https://localhost:3001",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickevah/cs585-SoftwareEngineering-UniLift.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrickevah/cs585-SoftwareEngineering-UniLift/issues"
+  },
+  "homepage": "https://github.com/patrickevah/cs585-SoftwareEngineering-UniLift#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
